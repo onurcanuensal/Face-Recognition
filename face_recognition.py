@@ -1,7 +1,3 @@
-import imp
-from turtle import width
-
-from scipy.misc import face
 import face_recognition
 import cv2
 import os
